@@ -8,7 +8,7 @@ export default function FirstPost() {
       <Head>
         <title>Charlotte</title>
       </Head>
-      <h2>Cross site scripting by Charlotte</h2>
+      <h2>Topic: Cross site scripting by Charlotte</h2>
     </Layout>
   )
 }

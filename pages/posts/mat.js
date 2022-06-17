@@ -6,9 +6,9 @@ export default function FirstPost() {
   return (
     <Layout>
       <Head>
-        <title>Mat</title>
+        <title>COMPANIES USING NEXT.JS</title>
       </Head>
-      <h2>Mat: Electron by Mat</h2>
+      <h2>Topic: Electron by Mat</h2>
     </Layout>
   )
 }

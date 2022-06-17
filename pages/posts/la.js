@@ -8,7 +8,7 @@ export default function FirstPost() {
       <Head>
         <title>L.A.</title>
       </Head>
-      <h2>IoT - Internet of Things by L.A.</h2>
+      <h2>Topic: IoT - Internet of Things by L.A.</h2>
     </Layout>
   )
 }
