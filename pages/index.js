@@ -16,19 +16,19 @@ export default function Home() {
           </a>
         </p>
         <p>
-          <Link href="/posts/mat">
+          <Link href="/mat">
             <a>Mat: Electron</a>
           </Link>
         </p>
 
         <p>
-          <Link href="/posts/charlotte">
+          <Link href="/charlotte">
             <a>Charlotte: Cross site scripting </a>
           </Link>
         </p>
 
         <p>
-          <Link href="/posts/la">
+          <Link href="/la">
             <a>L.A. : IoT - Internet of Things </a>
           </Link>
         </p>
