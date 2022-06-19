@@ -1,13 +1,13 @@
 import Link from 'next/link'
 import Head from 'next/head'
 import Image from 'next/image'
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 export default function FirstPost() {
   return (
     <Layout>
       <Head>
-        <title>COMPANIES USING NEXT.JS</title>
+        <title>Mat</title>
       </Head>
       <h2>Topic: Electron </h2>
 

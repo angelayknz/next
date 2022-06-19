@@ -9,8 +9,8 @@ export default function FirstPost() {
       <Head>
         <title>Charlotte</title>
       </Head>
-      <h2>Topic: Cross site scripting </h2>
 
+      <h2>Topic: Cross site scripting </h2>
       <Image priority src="/images/css.jpeg" height={800} width={1000} />
     </Layout>
   )
